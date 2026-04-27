@@ -4,17 +4,17 @@ This repository features solutions for 8 LeetCode problems (5 Easy, 2 Medium, an
 ##  Selected Problems
 
 ###  Easy (5 Problems)
-* **#929** – Unique Email Addresses
-* **#1047** – Remove All Adjacent Duplicates In String
-* **#1108** – Defanging an IP Address
-* **#1114** – Print in Order
-* **#1266** – Minimum Time Visiting All Points
+* **#929** – Unique Email Addresses *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/unique-email-addresses/description/)
+* **#1047** – Remove All Adjacent Duplicates In String *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+* **#1108** – Defanging an IP Address *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/defanging-an-ip-address/)
+* **#1114** – Print in Order *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/print-in-order/)
+* **#1266** – Minimum Time Visiting All Points *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
 ###  Medium (2 Problems)
-* **#199** – Binary Tree Right Side View
-* **#1026** – Maximum Difference Between Node and Ancestor
+* **#199** – Binary Tree Right Side View *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/binary-tree-right-side-view/)
+* **#1026** – Maximum Difference Between Node and Ancestor *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 
 ###  Hard (Bonus)
-* **#761** – Special Binary String
+* **#761** – Special Binary String *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/special-binary-string/)
 
 ---

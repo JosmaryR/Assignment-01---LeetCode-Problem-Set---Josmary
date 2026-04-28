@@ -1,5 +1,5 @@
 # Assignment-01---LeetCode-Problem-Set---Josmary
-This repository features solutions for 8 LeetCode problems (5 Easy, 2 Medium, and 1 Hard). Each entry includes the source code and a link to a YouTube video providing a detailed explanation.
+This repository contains solutions to 8 LeetCode problems (5 Easy, 2 Medium, and 1 Hard). Each entry includes the full source code and a link to a YouTube video with a detailed explanation of all the problems.
 
 ##  Selected Problems
 
@@ -30,6 +30,7 @@ This repository features solutions for 8 LeetCode problems (5 Easy, 2 Medium, an
 ###  Hard (Bonus)
 * **#761** – Special Binary String *This is the link to get this problem on LeetCode*(https://leetcode.com/problems/special-binary-string/)
   
-
+### Youtube Video Link
+(https://youtu.be/tCsG9xRWK2k)
 
 ---
